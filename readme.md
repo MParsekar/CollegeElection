@@ -1,3 +1,7 @@
+# Vresion Control
+    Angular CLI version used : 10.0.7
+    Java 17+
+    
 # Folder Structure
 1. Java Project Contains backend logic 
 2. frontend project contains angular project for UI
@@ -37,8 +41,6 @@
 2. Change the mysql link to desired  link
 3. change the username and password accordingly
 4. Create schema(Demo) in database with the name 'college_election'
-
-Angular CLI version used : 10.0.7
 
 For information Contact 
 Mahadev Parsekar
